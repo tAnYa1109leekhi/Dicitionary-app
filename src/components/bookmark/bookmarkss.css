@@ -1,0 +1,30 @@
+.headingg{ 
+  display: flex;
+  flex-direction: row;
+ align-items: center;
+  margin-top: 13px;
+   
+}
+.arrow{ 
+  margin-right: 22px;
+ 
+}
+.boxelement{ 
+  cursor: pointer;
+  padding: 18px;
+  background-color: white;
+  text-transform: capitalize;
+  margin-bottom: 16px;
+  border-radius: 10px;
+  margin-top: 40px;
+  font-weight: 700;
+  font-size: large;
+  display: block;
+  color: black;
+  text-decoration: none;
+}
+.last{
+  align-items: center;
+}
+
+  
